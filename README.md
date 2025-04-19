@@ -2,6 +2,7 @@
 
 A console Java project built using Object-Oriented Programming (OOP) principles to manage a basketball league, featuring structured classes for teams, players, games, and league operations.
 
+![Basketball Logo](https://github.com/AlecsDevs/Basketball-Management-console/blob/b379e64bb52cecd9f43e27282873b4b63b76a3a0/Basketball-League-Mannagement.png)
 
 
 ## 📌 Features
